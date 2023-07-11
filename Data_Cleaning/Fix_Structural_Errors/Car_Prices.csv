@@ -1,0 +1,63 @@
+make,model,year,price
+Toyota,Corolla,2010,9000
+Honda,Civic,2015,12000
+Nissan,Altima,2012,10000
+Ford,Fusion,2016,15000
+Chevrolet,Camaro,2014,N/A
+Dodge,Challenger,2017,20000
+Subaru,Outback,2013,11000
+Mazda,MX-5,2019,Not Applicable
+Tesla,Model S,2015,N/A
+Hyundai,Elantra,2018,13000
+BMW,3 Series,2011,8000
+Mercedes-Benz,C-Class,2017,25000
+Lexus,ES,2016,N/A
+Volkswagen,Jetta,2012,8500
+Audi,A4,2014,12000
+Kia,Soul,2019,Not Applicable
+Volvo,S60,2015,N/A
+Infiniti,Q50,2016,18000
+Mitsubishi,Outlander,2018,16000
+Acura,RLX,2014,14000
+Cadillac,CTS,2015,19000
+Jeep,Cherokee,2017,17000
+GMC,Acadia,2014,12000
+Buick,Regal,2013,9500
+Porsche,Cayenne,2016,N/A
+Land Rover,Range Rover,2014,N/A
+Lincoln,MKZ,2015,N/A
+Ferrari,458 Italia,2013,200000
+Maserati,Ghibli,2015,35000
+Jaguar,XJ,2012,N/A
+Rolls-Royce,Phantom,2014,N/A
+Bentley,Continental GT,2016,90000
+Lamborghini,Aventador,2017,400000
+McLaren,570S,2016,150000
+Bugatti,Chiron,2018,3000000
+Fiat,500,2015,8000
+Mini,Cooper,2013,9000
+Smart,Fortwo,2016,5000
+Chevrolet,Volt,2017,22000
+Tesla,Model 3,2019,Not Applicable
+Nissan,Leaf,2016,N/A
+Toyota,Prius,2018,18000
+Honda,Insight,2019,Not Applicable
+Ford,C-Max,2017,N/A
+Hyundai,Ioniq,2018,16000
+Kia,Niro,2017,19000
+BMW,i3,2015,N/A
+Mercedes-Benz,B-Class,2014,N/A
+Volkswagen,Golf,2016,11000
+Audi,A3,2015,N/A
+Mazda,3,2014,9000
+Subaru,Impreza,2018,14000
+Volvo,V60,2016,N/A
+Infiniti,QX50,2017,25000
+Lexus,NX,2016,N/A
+Acura,MDX,2015,23000
+Cadillac,XT5,2018,30000
+Jeep,Grand Cherokee,2014,17000
+GMC,Terrain,2012,8000
+Buick,Enclave,2015,20000
+Porsche,Panamera,2014,N/A
+Land Rover,Discovery Sport,2017
