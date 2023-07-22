@@ -10,3 +10,4 @@ Happy Learning 😀
 Keep Learning ✨
 
 By, Meet Patel
+<img src="https://t.bkit.co/w_64ba1b486bac1.gif" />
