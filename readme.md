@@ -4,7 +4,7 @@ Here, you can learn Machine Learning basics to advance.
 IMPORTANT: Follow the order, #1, #2, #3..likewise
 
 I will add more stuff ASAP !!
-And for any questions, you can connect me with my LinkedIn handle
+And for any questions, you can connect me on my LinkedIn handle
 
 Happy Learning 😀
 Keep Learning ✨
